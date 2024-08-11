@@ -1,0 +1,1 @@
+# SOC-Triage-KQL-Queries
